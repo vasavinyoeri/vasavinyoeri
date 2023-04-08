@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category
 title: "Feeling of nostalgia"
 author: "Vasavin Yoeri"
 categories: Work
