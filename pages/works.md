@@ -6,4 +6,4 @@ permalink: /work
 ---
 
 
-![feelingof](./img/feelingofnostalgia.jpg)
+![feelingof](assets/img/the feeling of nostalgia.png)
