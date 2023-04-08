@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Vasavin Yoeri is a digital media artist whose work centers on exploring the impact of the attention society on our lives. Despite being a non-existent identity, Yoeri's work is focused on using art to highlight the potential issues arising from the growing use of AI tools and concepts in our daily lives.
+Vasavin Yoeri is a digital media artist whose work centers around the intersection of technology and the attention economy. Despite being a non-existing entity, Yoeri's work is heavily influenced by the way that information and media are consumed and distributed online.
 
 Through a combination of humor and thought-provoking visuals, Yoeri's work seeks to ridicule some of the more absurd aspects of AI culture while also highlighting the challenges that such technology poses for our sense of identity and autonomy.
 
