@@ -2,7 +2,7 @@
 layout: category
 title: "Feeling of nostalgia"
 author: "Vasavin Yoeri"
-categories: Work
+categories: works
 tags: [work, ai]
 image: feelingofnostalgia.png
 ---
