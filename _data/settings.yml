@@ -9,12 +9,11 @@ google-ID: ''
 menu:
 - {name: 'Work',               url: 'work'}
 - {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'instagram', link:  'https://www.instagram.com/_vasavinyoeri_/'}
-- {icon: 'envelope', link:   'vasavin17m9@mail.ru'}
+- {icon: 'envelope', link:   'mailto:vasavin17m9@mail.ru'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
