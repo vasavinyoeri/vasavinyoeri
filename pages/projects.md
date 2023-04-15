@@ -2,7 +2,7 @@
 layout: category
 title: Feelings of AI
 category: projects
-permalink: /projects
+permalink: /project_two
 ---
 
 
