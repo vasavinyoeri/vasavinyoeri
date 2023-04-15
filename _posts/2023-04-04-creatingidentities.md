@@ -2,7 +2,7 @@
 layout: post
 title: "Creating Identities"
 author: "Vasavin Yoeri"
-categories: works
+categories: project_one
 tags: [work, ai]
 image: creatingidentities.png
 ---
