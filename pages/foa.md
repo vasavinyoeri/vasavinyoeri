@@ -1,8 +1,8 @@
 ---
 layout: category
-title: Works
+title: Feelings of AI
 category: works
-permalink: /work
+permalink: /projectfoa
 ---
 
 
