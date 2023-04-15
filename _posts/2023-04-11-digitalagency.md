@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Agency"
 author: "Vasavin Yoeri"
-categories: works
+categories: project_one
 tags: [work, ai]
 image: digitalagency.png
 ---
