@@ -2,7 +2,7 @@
 layout: post
 title: "Dystopian Worlds"
 author: "Vasavin Yoeri"
-categories: works
+categories: project_one
 tags: [work, ai]
 image: dystopianworlds.png
 ---
