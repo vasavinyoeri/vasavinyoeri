@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Feelings of AI
-category: projects
+category: project_two
 permalink: /project_two
 ---
 
