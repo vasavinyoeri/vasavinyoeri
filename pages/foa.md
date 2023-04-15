@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Feelings of AI
-category: works
+category: projects
 permalink: /projectfoa
 ---
 
