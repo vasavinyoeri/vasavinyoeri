@@ -1,6 +1,6 @@
 ---
 layout: category
-title: 
+title: Attention Flux
 category: project_one
 permalink: /project_one
 ---
