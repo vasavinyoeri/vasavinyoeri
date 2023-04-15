@@ -7,8 +7,8 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Work',               url: 'work'}
-- {name: 'EmotionalAI',         url: 'projects ai'}
+- {name: 'Attention Flux',     url: 'project_one'}
+- {name: 'AICEE',              url: 'project_two'}
 - {name: 'About',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
