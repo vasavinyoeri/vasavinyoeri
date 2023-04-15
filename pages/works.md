@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Works
-category: works
-permalink: /work
+category: project_one
+permalink: /project_one
 ---
