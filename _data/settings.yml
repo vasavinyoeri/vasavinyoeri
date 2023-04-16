@@ -9,6 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Attention Flux',     url: 'project_one'}
 - {name: 'AICEE',              url: 'project_two'}
+- {name: 'IVOS',               url: 'project_three'}
 - {name: 'About',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
