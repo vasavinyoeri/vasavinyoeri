@@ -27,3 +27,17 @@ In this project, I take a different approach, using text-to-image AI as a starti
 ### IVOS
 
 ### AICEE
+
+Project Title: "Aesthetical Impacts of Artificial Intelligence: Exploring Emotion through Everyday Images"
+
+I explore the relationship between AI and human creativity by using Midjourney AI text-to-image software as a tool for artistic expression.
+
+I experiments with using different types of input text prompts to generate images that evoke different emotions, concepts, or moods. For example, I could use prompts that are open-ended and allow for a range of interpretations, such as "the sound of silence" or "the feeling of nostalgia." 
+The project aims to explore the potential of AI-generated images in conveying complex emotions to the viewers through everyday images. The project will explore the aesthetics of AI-generated art and its ability to generate emotions from the viewer. What in a way is the purpose of an artist is to convey emotions out of the work and out of a viewer.
+
+Creating emotion out of an emotionless machine.
+
+Plato believed that poetry, as well as other forms of art, was a representation of reality rather than reality itself. In his dialogues, specifically in "The Republic," Plato argues that the arts, including poetry, are imitations of the world and therefore not truly real.
+
+Ultimately, this project could raise questions about the role of AI in the creative process and the ways in which technology can be used to expand our understanding of aesthetics and human expression.
+
