@@ -13,7 +13,7 @@ One of Yoeri's primary artistic techniques involves juxtaposing text with AI con
 Overall, Yoeri's work is a fascinating exploration of the intersection between art, technology, and culture, and offers a unique perspective on some of the most pressing issues of our time.
 
 
-###Attention Flux
+### Attention Flux
 Project Title: "Juxtaposing the boundaries of social economics or Attention Flux"
 
 In this project, I explore the fascinating intersection between text and image AI, questioning the boundaries between the two and the ways they can be brought together to create new forms of artistic expression in relation with the social media frenzy of these days.
@@ -24,6 +24,6 @@ Text-to-image AI has been a hot topic in the field of artificial intelligence in
 In this project, I take a different approach, using text-to-image AI as a starting point to explore the creative potential of this technology and the definition of real, fake, attention. Instead of solely relying on AI-generated images, I use the generated images as a basis for further exploration, experimentation, and creative expression.
 
 
-###IVOS
+### IVOS
 
-###AICEE
+### AICEE
