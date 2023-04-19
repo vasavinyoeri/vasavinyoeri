@@ -26,6 +26,14 @@ In this project, I take a different approach, using text-to-image AI as a starti
 
 ### IVOS
 
+The IVOS project explores the potential of artificial intelligence through the use of DALLE's "variations" button. DALLE is a state-of-the-art AI model that can generate high-quality images based on textual input.
+
+The project involves selecting a prompt and using the variations button in DALLE to generate a series of images that are similar in style and content, but differ in minor details such as color, shape, and texture. Rather than aiming for uniqueness and diversity, IVOS focuses on the process of generating variations and exploring the boundaries of AI-generated art.
+
+Through this process, IVOS seeks to challenge our assumptions about the nature of creativity and the role of AI in art. By using DALLE's variations button to generate a series of images that are at once repetitive and visually noisy, IVOS demonstrates the limitations of AI and the ways in which it can be used to create new forms of art that are both familiar and unsettling.
+
+IVOS invites audiences to engage with the project by exploring the variations and discovering the subtle differences that arise from using DALLE's AI technology. Whether you are an artist, a technologist, or simply someone who is interested in the intersection of art and technology, IVOS is a project that offers a thought-provoking glimpse into the possibilities and limitations of AI-generated art.
+
 ### AICEE
 
 Project Title: "Aesthetical Impacts of Artificial Intelligence: Exploring Emotion through Everyday Images"
